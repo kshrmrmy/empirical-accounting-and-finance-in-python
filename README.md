@@ -9,3 +9,4 @@
 - 本書の[サポートサイト](https://www2.econ.osaka-u.ac.jp/~eaafinr/)では，データやRコードの一覧，オンライン付録などを掲載している．
 - Rコードの配布用GitHubリポジトリは，別途[ここ](https://github.com/kshrmrmy/empirical-accounting-and-finance-in-r)に用意している．
 - 本書で使用するデータについては，[サポートサイトのS2節](https://www2.econ.osaka-u.ac.jp/~eaafinr/sect-2.html)よりダウンロード可能である．なお，データのダウンロードにあたっては，本書「まえがき」ivページ記載のパスワードを入力してほしい．
+- 本リポジトリのPythonコードの作成・動作確認については，彭遠超氏（大阪大学大学院経済学研究科・D3）に支援いただいた．記して，ここに感謝申し上げます．
